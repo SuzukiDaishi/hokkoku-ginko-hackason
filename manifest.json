@@ -1,0 +1,15 @@
+{
+    "lang": "ja",
+    "name": "北國おサイフアプリ",
+    "short_name": "北國",
+    "icons": [
+        {
+            "src": "/icon_app_01.jpg",
+            "sizes": "76x76",
+            "type": "image/jpeg"
+        }
+    ],
+    "start_url": "https://hokkokuweb.blob.core.windows.net/$web/index.html",
+    "scope": "https://hokkokuweb.blob.core.windows.net/$web/",
+    "display": "standalone"
+}
